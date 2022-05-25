@@ -1,6 +1,6 @@
 # money_app
 
-A new Flutter project.
+Trancation appliation UI For Flutter.
 
 ## Getting Started
 
